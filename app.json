@@ -10,13 +10,12 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "runtimeVersion": "1.0.0",
     "updates": {
       "fallbackToCacheTimeout": 3000,
       "url": "https://u.expo.dev/e0e06905-710f-4991-ba5a-793c4efd70e8"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.jonsamp.tryeasupdate"
