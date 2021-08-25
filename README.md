@@ -51,5 +51,5 @@ Once the build is complete, unzip the file, then drag and drop the file into a s
 Now it's time to send an update. Make a change in **App.js**, like changing text or adding an image. Then run:
 
 ```bash
-eas branch:publish main
+eas branch:publish --auto
 ```
