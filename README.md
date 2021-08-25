@@ -13,7 +13,7 @@ yarn install
 Then install the expo-asset and expo-updates libraries:
 
 ```bash
-npm install *.tar
+npm install *.tgz
 ```
 
 Link your own EAS project:
