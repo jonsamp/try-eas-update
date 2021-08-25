@@ -2659,9 +2659,9 @@
   "resolved" "https://registry.npmjs.org/expo-application/-/expo-application-3.2.0.tgz"
   "version" "3.2.0"
 
-"expo-asset@~8.3.3", "expo-asset@file:expo-asset-8.3.3.tar":
+"expo-asset@~8.3.3", "expo-asset@file:expo-asset-8.3.3.tgz":
   "integrity" "sha512-4nCIjh2L3k27nb2KcJLGx8+of92H7yLCpfDfEz3K1LR+NWo+x8fyDJX1kMJ25V6bZkCWYYXMh/7ksHOTaSD/cg=="
-  "resolved" "file:expo-asset-8.3.3.tar"
+  "resolved" "file:expo-asset-8.3.3.tgz"
   "version" "8.3.3"
   dependencies:
     "blueimp-md5" "^2.10.0"
@@ -2737,9 +2737,9 @@
   "resolved" "https://registry.npmjs.org/expo-updates-interface/-/expo-updates-interface-0.2.2.tgz"
   "version" "0.2.2"
 
-"expo-updates@file:expo-updates-0.8.4.tar":
+"expo-updates@file:expo-updates-0.8.4.tgz":
   "integrity" "sha512-hE6kDwQS8zXPv6Jbiivxk4kGPhe2TClTiFEFnLOeN2oFhn3w02yS5MGaHrpCM6M7B01x0T82igH0ji4TjNI2eA=="
-  "resolved" "file:expo-updates-0.8.4.tar"
+  "resolved" "file:expo-updates-0.8.4.tgz"
   "version" "0.8.4"
   dependencies:
     "@expo/config" "^5.0.6"
