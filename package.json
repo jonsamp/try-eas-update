@@ -9,9 +9,9 @@
   },
   "dependencies": {
     "expo": "~42.0.1",
-    "expo-asset": "file:expo-asset-8.3.3.tar",
+    "expo-asset": "file:expo-asset-8.3.3.tgz",
     "expo-status-bar": "~1.0.4",
-    "expo-updates": "file:expo-updates-0.8.4.tar",
+    "expo-updates": "file:expo-updates-0.8.4.tgz",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
