@@ -7,7 +7,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Image source={ToolsImage} style={styles.image} />
-      <Text>Update 2</Text>
+      <Text>Update Charlie!</Text>
       <StatusBar style='auto' />
     </View>
   );
